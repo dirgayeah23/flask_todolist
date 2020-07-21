@@ -1,4 +1,4 @@
-# flask_testing
+# Flask Todolist
 Todolist Testing Application
 
 <h1>This Todolist application</h1>
